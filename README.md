@@ -16,3 +16,4 @@
 
 -[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)
 
+-[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)
