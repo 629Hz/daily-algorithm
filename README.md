@@ -20,3 +20,4 @@
 
 4.14
 -[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)
+-[Counting Valleys] (https://www.hackerrank.com/challenges/counting-valleys/problem)
