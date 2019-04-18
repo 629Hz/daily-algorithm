@@ -18,8 +18,12 @@
 
 
 
-4.14
+WEEK2::
 
 -[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)
 
 -[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
+
+WEEK3::
+
+-[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)
